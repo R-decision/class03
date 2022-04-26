@@ -1,6 +1,6 @@
 ---
 title: "Tipos de dados e objetos no R"
-subtitle: "Encontro Síncrono 03"
+
 author: 
   - <br></br>Renata Oliveira
 output:
